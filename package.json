@@ -1,0 +1,15 @@
+{
+  "name": "dashboard",
+  "private": true,
+  "description": "Live dashboard of Gasteren's GitHub projects, with plain-English summaries of every update.",
+  "type": "module",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "build:no-ai": "node scripts/build.mjs --no-ai",
+    "serve": "node scripts/serve.mjs",
+    "test": "node --test \"scripts/test/*.test.mjs\""
+  }
+}

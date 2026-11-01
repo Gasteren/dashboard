@@ -1,0 +1,32 @@
+{
+  "owner": "Gasteren",
+  "title": "Gasteren's projects",
+  "tagline": "A live look at everything I'm building on GitHub, from World of Warcraft add-ons to websites. Every update is explained in plain English, so you don't need to be technical to follow along.",
+  "exclude": [],
+  "includeForks": false,
+  "includeArchived": true,
+  "curseforgeLinks": {
+    "AntiSocial": "https://www.curseforge.com/wow/addons/antisocial",
+    "Hall-Of-Fallen-Heroes": "https://www.curseforge.com/wow/addons/hall-of-fallen-heroes-wd",
+    "HandyNotes_NaigtalTeleports": "https://www.curseforge.com/wow/addons/handynotes-naigtalteleports",
+    "HandyNotes_ValTeleports": "https://www.curseforge.com/wow/addons/handynotes-valteleports",
+    "LevelTimeTracker": "https://www.curseforge.com/wow/addons/leveltimetracker",
+    "RepKeeper": "https://www.curseforge.com/wow/addons/repkeeper",
+    "TimeStamp": "https://www.curseforge.com/wow/addons/timestamp"
+  },
+  "feed": {
+    "days": 180,
+    "maxCards": 200,
+    "groupWindowHours": 12
+  },
+  "ai": {
+    "enabled": true,
+    "models": ["gpt-6-luna", "gpt-5.6-luna"],
+    "reasoningEffort": "low",
+    "maxAiCreditsPerCall": 30,
+    "maxAiCreditsPerRun": 20,
+    "maxAiCreditsPerDay": 100,
+    "maxCallsPerRun": 4,
+    "maxUpdatesPerCall": 15
+  }
+}

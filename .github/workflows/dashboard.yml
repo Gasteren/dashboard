@@ -1,0 +1,154 @@
+name: Dashboard
+
+on:
+  schedule:
+    # Every hour, at 23 minutes past (quieter than the top of the hour).
+    - cron: '23 * * * *'
+  workflow_dispatch:
+    inputs:
+      skip_ai:
+        description: Build without calling Copilot (no AI cost)
+        type: boolean
+        default: false
+  push:
+    branches: [main]
+    paths:
+      - 'site/**'
+      - 'scripts/**'
+      - 'dashboard.config.json'
+      - '.github/workflows/dashboard.yml'
+
+# Nothing by default; every job asks only for what it needs.
+permissions: {}
+
+concurrency:
+  group: dashboard
+  cancel-in-progress: false
+
+env:
+  COPILOT_CLI_VERSION: latest
+
+jobs:
+  build:
+    name: Collect data and write summaries
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    permissions:
+      contents: read
+      copilot-requests: write
+    outputs:
+      state_changed: ${{ steps.build.outputs.state_changed }}
+    steps:
+      - name: Check out the site
+        uses: actions/checkout@v6
+        with:
+          persist-credentials: false
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v6
+        with:
+          node-version: 22
+
+      - name: Load saved data from the data branch
+        run: |
+          mkdir -p state
+          repo_url="https://github.com/${GITHUB_REPOSITORY}.git"
+          if git ls-remote --exit-code --heads "$repo_url" data > /dev/null; then
+            git fetch --quiet --depth=1 "$repo_url" data
+            git archive FETCH_HEAD | tar -x -C state
+            echo "Loaded saved data:"
+            ls -l state
+          else
+            echo "No data branch yet, starting fresh."
+          fi
+
+      - name: Install GitHub Copilot CLI
+        if: ${{ !inputs.skip_ai }}
+        run: |
+          npm install --global --no-fund --no-audit "@github/copilot@${COPILOT_CLI_VERSION}"
+          copilot --version
+
+      - name: Build dashboard data
+        id: build
+        run: node scripts/build.mjs --state state --out site/data
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+          DASHBOARD_AI: ${{ inputs.skip_ai && 'off' || 'on' }}
+
+      - name: Keep the saved data for the next run
+        uses: actions/upload-artifact@v7
+        with:
+          name: dashboard-state
+          path: state/
+          retention-days: 3
+          if-no-files-found: error
+
+      - name: Package the site
+        uses: actions/upload-pages-artifact@v5
+        with:
+          path: site/
+
+  save-state:
+    name: Save data to the data branch
+    needs: build
+    if: needs.build.outputs.state_changed == 'true'
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    permissions:
+      contents: write
+    steps:
+      - name: Download the saved data
+        uses: actions/download-artifact@v7
+        with:
+          name: dashboard-state
+          path: state
+
+      # The data branch holds a single snapshot commit, so it never grows and never touches main.
+      - name: Replace the data branch with the new snapshot
+        working-directory: state
+        run: |
+          git init --quiet --initial-branch=data
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add --all
+          git commit --quiet -m "Dashboard data snapshot"
+          git push --quiet --force "https://x-access-token:${GH_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" data:data
+        env:
+          GH_TOKEN: ${{ github.token }}
+
+  deploy:
+    name: Publish to GitHub Pages
+    needs: build
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy
+        id: deployment
+        uses: actions/deploy-pages@v5
+
+  keepalive:
+    name: Keep the hourly schedule switched on
+    if: github.event_name == 'schedule'
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    permissions:
+      actions: write
+    steps:
+      # GitHub pauses schedules in public repos after 60 days without repository activity; re-enabling daily prevents that.
+      - name: Re-enable this workflow once a day
+        run: |
+          if [ "$(date -u +%H)" = "03" ]; then
+            if gh api --method PUT "repos/${GITHUB_REPOSITORY}/actions/workflows/dashboard.yml/enable"; then
+              echo "Schedule confirmed active."
+            else
+              echo "::warning::Could not re-enable the workflow; check the Actions tab if updates stop."
+            fi
+          fi
+        env:
+          GH_TOKEN: ${{ github.token }}
