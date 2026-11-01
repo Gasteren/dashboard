@@ -1,0 +1,109 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Gasteren's projects</title>
+  <meta name="description" content="A live look at Gasteren's GitHub projects, with every update explained in plain English.">
+  <meta name="color-scheme" content="light dark">
+  <link rel="icon" href="favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="styles.css">
+  <script>
+    try {
+      var savedTheme = localStorage.getItem('theme');
+      if (savedTheme === 'light' || savedTheme === 'dark') document.documentElement.dataset.theme = savedTheme;
+    } catch (error) {}
+  </script>
+  <script src="app.js" defer></script>
+</head>
+<body>
+  <a class="skip-link" href="#updates">Skip to the latest updates</a>
+
+  <header class="site-header">
+    <div class="wrap header-inner">
+      <a class="brand" href="./">
+        <img id="avatar" class="avatar" alt="" width="36" height="36" hidden>
+        <span class="brand-text" id="brand-name">Projects dashboard</span>
+      </a>
+      <nav class="nav" aria-label="Sections">
+        <a href="#updates">Updates</a>
+        <a href="#stats">Stats</a>
+        <a href="#projects">Projects</a>
+      </nav>
+      <button class="theme-toggle" id="theme-toggle" type="button" aria-label="Switch to dark mode" title="Switch between light and dark mode">
+        <svg class="icon-moon" viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><path fill="currentColor" d="M21 14.5A9 9 0 0 1 9.5 3a.75.75 0 0 0-.93-.93A10.5 10.5 0 1 0 21.93 15.43a.75.75 0 0 0-.93-.93Z"/></svg>
+        <svg class="icon-sun" viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><path fill="currentColor" d="M12 17a5 5 0 1 1 0-10 5 5 0 0 1 0 10Zm0-13a1 1 0 0 1-1-1V2a1 1 0 1 1 2 0v1a1 1 0 0 1-1 1Zm0 18a1 1 0 0 1-1-1v-1a1 1 0 1 1 2 0v1a1 1 0 0 1-1 1ZM4 12a1 1 0 0 1-1 1H2a1 1 0 1 1 0-2h1a1 1 0 0 1 1 1Zm19 0a1 1 0 0 1-1 1h-1a1 1 0 1 1 0-2h1a1 1 0 0 1 1 1ZM5.64 7.05 4.93 6.34a1 1 0 0 1 1.41-1.41l.71.71a1 1 0 0 1-1.41 1.41Zm12.72 12.72-.71-.71a1 1 0 0 1 1.41-1.41l.71.71a1 1 0 0 1-1.41 1.41Zm0-13.43a1 1 0 0 1 0-1.41l.71-.71a1 1 0 1 1 1.41 1.41l-.71.71a1 1 0 0 1-1.41 0ZM5.64 18.36a1 1 0 0 1 0 1.41l-.71.71a1 1 0 0 1-1.41-1.41l.71-.71a1 1 0 0 1 1.41 0Z"/></svg>
+      </button>
+    </div>
+  </header>
+
+  <main class="wrap" id="main">
+    <div id="notice" class="notice" role="status" hidden></div>
+
+    <section class="hero">
+      <h1 id="hero-title">Projects dashboard</h1>
+      <p id="hero-text">A live look at everything being built on GitHub. Every update is explained in plain English, so you don't need to be technical to follow along.</p>
+    </section>
+
+    <section aria-label="Overview">
+      <ul class="tiles" id="tiles">
+        <li class="tile tile-loading">Loading…</li>
+      </ul>
+    </section>
+
+    <div class="layout">
+      <section id="updates" class="panel" aria-labelledby="updates-title">
+        <div class="panel-head">
+          <h2 id="updates-title">Latest updates</h2>
+          <label class="control">
+            <span>Show</span>
+            <select id="project-filter">
+              <option value="">All projects</option>
+            </select>
+          </label>
+        </div>
+        <p class="panel-intro" id="updates-intro">What changed recently, newest first.</p>
+        <ol class="feed" id="feed">
+          <li class="empty">Loading the latest updates…</li>
+        </ol>
+        <button class="more" id="feed-more" type="button" hidden>Show more updates</button>
+      </section>
+
+      <aside id="stats" class="side" aria-label="Stats">
+        <section class="panel" aria-labelledby="activity-title">
+          <h2 id="activity-title">Activity over the past year</h2>
+          <p class="panel-intro" id="activity-intro">Changes saved by hand per week, across all projects.</p>
+          <div class="chart" id="activity-chart"></div>
+        </section>
+        <section class="panel" aria-labelledby="languages-title">
+          <h2 id="languages-title">Languages used</h2>
+          <p class="panel-intro">Share of all code, by programming language.</p>
+          <div id="languages"></div>
+        </section>
+      </aside>
+    </div>
+
+    <section id="projects" class="panel" aria-labelledby="projects-title">
+      <div class="panel-head">
+        <h2 id="projects-title">All projects</h2>
+        <label class="control">
+          <span>Sort by</span>
+          <select id="project-sort">
+            <option value="updated">Recently updated</option>
+            <option value="stars">Most stars</option>
+            <option value="name">Name</option>
+          </select>
+        </label>
+      </div>
+      <ul class="projects" id="project-list"></ul>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="wrap">
+      <p id="footer-text">Refreshed automatically every hour from public GitHub data.</p>
+      <noscript><p>This page needs JavaScript to show the dashboard.</p></noscript>
+    </div>
+  </footer>
+</body>
+</html>
