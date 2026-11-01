@@ -268,7 +268,7 @@
     }
     if (details.files) {
       body.append(
-        el('p', null, `${plural(details.files, 'file')} changed, ${numberFormat.format(details.additions || 0)} lines added and ${numberFormat.format(details.deletions || 0)} removed.`),
+        el('p', null, `${plural(details.files, 'file')} changed: ${plural(details.additions || 0, 'line')} added and ${numberFormat.format(details.deletions || 0)} removed.`),
       );
     }
     const links = details.links || [];
@@ -333,9 +333,9 @@
     const total = weeks.reduce((sum, week) => sum + week.commits, 0);
     const busiest = weeks.reduce((best, week) => (week.commits > best.commits ? week : best), weeks[0]);
     const max = Math.max(1, busiest.commits);
-    const width = 520;
-    const height = 170;
-    const pad = { top: 10, right: 4, bottom: 22, left: 30 };
+    const width = 420;
+    const height = 180;
+    const pad = { top: 10, right: 4, bottom: 24, left: 34 };
     const innerWidth = width - pad.left - pad.right;
     const innerHeight = height - pad.top - pad.bottom;
     const step = innerWidth / weeks.length;
@@ -351,7 +351,7 @@
       const y = yOf(value);
       chart.append(
         svg('line', { class: 'grid', x1: pad.left, x2: width - pad.right, y1: y, y2: y }),
-        svg('text', { x: pad.left - 6, y: y + 3, 'text-anchor': 'end' }, numberFormat.format(value)),
+        svg('text', { x: pad.left - 6, y: y + 4, 'text-anchor': 'end' }, numberFormat.format(value)),
       );
     }
     let lastMonth = null;

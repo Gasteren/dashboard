@@ -485,7 +485,9 @@ h3 {
 .chart svg {
   display: block;
   width: 100%;
+  max-width: 560px;
   height: auto;
+  margin: 0 auto;
 }
 
 .chart .bar {
@@ -503,7 +505,7 @@ h3 {
 
 .chart text {
   fill: var(--muted);
-  font-size: 10px;
+  font-size: 13px;
 }
 
 .lang-bar {
