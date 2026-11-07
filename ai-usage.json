@@ -1,0 +1,114 @@
+[
+  {
+    "at": "2026-11-01T01:16:31.400Z",
+    "calls": 3,
+    "failedCalls": 0,
+    "summaries": 45,
+    "inputTokens": 71427,
+    "outputTokens": 2249,
+    "aiUnits": 0.8388,
+    "estimatedCredits": 0.8267,
+    "unknownUsageCalls": 0,
+    "models": [
+      "gpt-6-luna"
+    ]
+  },
+  {
+    "at": "2026-11-01T01:21:16.841Z",
+    "calls": 1,
+    "failedCalls": 0,
+    "summaries": 5,
+    "inputTokens": 13622,
+    "outputTokens": 210,
+    "aiUnits": 0.0975,
+    "estimatedCredits": 0.1467,
+    "unknownUsageCalls": 0,
+    "models": [
+      "gpt-6-luna"
+    ]
+  },
+  {
+    "at": "2026-11-01T11:56:01.259Z",
+    "calls": 4,
+    "failedCalls": 0,
+    "summaries": 60,
+    "inputTokens": 71933,
+    "outputTokens": 2711,
+    "aiUnits": 0.785,
+    "estimatedCredits": 0.8549,
+    "unknownUsageCalls": 0,
+    "models": [
+      "gpt-6-luna"
+    ]
+  },
+  {
+    "at": "2026-11-01T18:00:42.639Z",
+    "calls": 4,
+    "failedCalls": 0,
+    "summaries": 60,
+    "inputTokens": 67138,
+    "outputTokens": 2706,
+    "aiUnits": 0.7248,
+    "estimatedCredits": 0.8067,
+    "unknownUsageCalls": 0,
+    "models": [
+      "gpt-6-luna"
+    ]
+  },
+  {
+    "at": "2026-11-01T22:14:02.213Z",
+    "calls": 3,
+    "failedCalls": 0,
+    "summaries": 39,
+    "inputTokens": 53133,
+    "outputTokens": 1886,
+    "aiUnits": 0.592,
+    "estimatedCredits": 0.6256,
+    "unknownUsageCalls": 0,
+    "models": [
+      "gpt-6-luna"
+    ]
+  },
+  {
+    "at": "2026-11-04T00:02:32.618Z",
+    "calls": 1,
+    "failedCalls": 0,
+    "summaries": 1,
+    "inputTokens": 13314,
+    "outputTokens": 68,
+    "aiUnits": 0.1698,
+    "estimatedCredits": 0.1365,
+    "unknownUsageCalls": 0,
+    "models": [
+      "gpt-6-luna"
+    ]
+  },
+  {
+    "at": "2026-11-05T11:14:50.867Z",
+    "calls": 1,
+    "failedCalls": 0,
+    "summaries": 1,
+    "inputTokens": 12975,
+    "outputTokens": 74,
+    "aiUnits": 0.1659,
+    "estimatedCredits": 0.1334,
+    "unknownUsageCalls": 0,
+    "models": [
+      "gpt-6-luna"
+    ]
+  },
+  {
+    "at": "2026-11-06T16:02:05.912Z",
+    "calls": 1,
+    "failedCalls": 0,
+    "summaries": 1,
+    "inputTokens": 13687,
+    "outputTokens": 72,
+    "aiUnits": 0.1747,
+    "estimatedCredits": 0.1405,
+    "unknownUsageCalls": 0,
+    "models": [
+      "gpt-6-luna"
+    ]
+  }
+]
