@@ -1,0 +1,1605 @@
+{
+  "a5cbfd5533af1907": {
+    "headline": "A new dashboard for project updates",
+    "summary": "Visitors can now browse project activity, releases and plain-English update notes on one mobile-friendly dashboard. The site also offers filters, activity charts and light or dark display modes.",
+    "impact": "visible",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T01:16:31.400Z"
+  },
+  "f5c1db24678a9c27": {
+    "headline": "The project page was started",
+    "summary": "Visitors could see a short introduction to the project. This was the first step before the dashboard was added.",
+    "impact": "behind-the-scenes",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T01:16:31.400Z"
+  },
+  "bfd75e4ba161e59a": {
+    "headline": "A new look and more accurate timing",
+    "summary": "Players can now view level times, character details and settings in a redesigned window, with four visual styles. Level timing now follows the game's played-time clock, including after reloading.",
+    "impact": "visible",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T01:16:31.400Z"
+  },
+  "1b50548349a47f51": {
+    "headline": "The add-on icon was updated",
+    "summary": "Players will see a different icon for the add-on in the game’s add-on list. This helps it appear correctly there.",
+    "impact": "visible",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T01:16:31.400Z"
+  },
+  "1c0f53faeb266b98": {
+    "headline": "Safer automatic add-on uploads",
+    "summary": "The automatic upload step now uses a fixed, reviewed release of its upload tool. Players should notice no difference; this is behind-the-scenes upkeep.",
+    "impact": "behind-the-scenes",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T01:16:31.400Z"
+  },
+  "a89be1cfecb1b4fc": {
+    "headline": "Safer automatic add-on uploads",
+    "summary": "The automatic upload step now uses a fixed, reviewed release of its upload tool. Players should notice no difference; this is behind-the-scenes upkeep.",
+    "impact": "behind-the-scenes",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T01:16:31.400Z"
+  },
+  "7a71679cbb892821": {
+    "headline": "Returning to the menus works again",
+    "summary": "Players can now return to the title screen or collection menu without getting stuck on an endless loading screen.",
+    "impact": "visible",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T01:16:31.400Z"
+  },
+  "7e6f830583f70abf": {
+    "headline": "Azeroth now slowly spins",
+    "summary": "Players will see Azeroth slowly turning on the away screen, and the galaxy background is no longer available. A saved galaxy setting switches to Azeroth automatically.",
+    "impact": "visible",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T01:16:31.400Z"
+  },
+  "c540d3fd9a6922b4": {
+    "headline": "A simpler away screen",
+    "summary": "Players will no longer see creatures crossing the screen or Azeroth’s moons. The Azeroth background now shows Azeroth alone.",
+    "impact": "visible",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T01:16:31.400Z"
+  },
+  "0cc9f7d947408990": {
+    "headline": "The away screen returns",
+    "summary": "Players can use the add-on again in the latest game editions, with their character shown against a galaxy or Azeroth background. This update also begins a fresh version series.",
+    "impact": "visible",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T01:16:31.400Z"
+  },
+  "229bd7052d1edfbe": {
+    "headline": "A support badge was added",
+    "summary": "Visitors reading the project page will see a badge for supporting the creator. This does not change the add-on in the game.",
+    "impact": "visible",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T01:16:31.400Z"
+  },
+  "129a500dd8f42534": {
+    "headline": "A page section was removed",
+    "summary": "Visitors will no longer see the license section on the project page. The add-on itself is unchanged.",
+    "impact": "visible",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T01:16:31.400Z"
+  },
+  "0130c1d2d3ef6c4b": {
+    "headline": "Project page details were refreshed",
+    "summary": "Visitors will see updated compatibility information and a shorter introduction. The add-on itself is unchanged.",
+    "impact": "visible",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T01:16:31.400Z"
+  },
+  "413d30e24b0ba62e": {
+    "headline": "The download page is linked",
+    "summary": "Visitors can now follow a link from the project page to its download page. The add-on itself is unchanged.",
+    "impact": "visible",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T01:16:31.400Z"
+  },
+  "0583ba53820b7930": {
+    "headline": "Fishing filters load again",
+    "summary": "Players can use the fishing filter in-game again, and the fishing hat is now listed under the corrected item number.",
+    "impact": "visible",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T01:16:31.400Z"
+  },
+  "4ec84bb3febd5460": {
+    "headline": "A refreshed AFK screen returns",
+    "summary": "The add-on has been rebuilt for World of Warcraft: Midnight and Forever, with several background choices for your character screen while you are away. Players will notice a redesigned experience.",
+    "impact": "visible",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T01:16:31.400Z"
+  },
+  "d280cf097f7e3bfa": {
+    "headline": "Version number reset",
+    "summary": "The add-on’s version number is now 1.0.0. Players won’t notice a difference in the game.",
+    "impact": "behind-the-scenes",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T01:16:31.400Z"
+  },
+  "2998cceda5994d1c": {
+    "headline": "Version number reset",
+    "summary": "The add-on’s version number is now 1.0.0. Players won’t notice a difference in the game.",
+    "impact": "behind-the-scenes",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T01:16:31.400Z"
+  },
+  "429de30d6165b9ba": {
+    "headline": "Version number reset",
+    "summary": "The add-on’s version number is now 1.0.0. Players won’t notice a difference in the game.",
+    "impact": "behind-the-scenes",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T01:16:31.400Z"
+  },
+  "7fb7051591f5749a": {
+    "headline": "Version number reset",
+    "summary": "The add-on’s version number is now 1.0.0. Players won’t notice a difference in the game.",
+    "impact": "behind-the-scenes",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T01:16:31.400Z"
+  },
+  "5b51a0fdaeabefc2": {
+    "headline": "Version number reset",
+    "summary": "The add-on’s version number is now 1.0.0. Players won’t notice a difference in the game.",
+    "impact": "behind-the-scenes",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T01:16:31.400Z"
+  },
+  "3a40774148296ac1": {
+    "headline": "Version number reset",
+    "summary": "The add-on’s version number is now 1.0.0. Players won’t notice a difference in the game.",
+    "impact": "behind-the-scenes",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T01:16:31.400Z"
+  },
+  "7d417368375e94b7": {
+    "headline": "Version number reset",
+    "summary": "The add-on’s version number is now 1.0.0. Players won’t notice a difference in the game.",
+    "impact": "behind-the-scenes",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T01:16:31.400Z"
+  },
+  "a40d35d8e49457c6": {
+    "headline": "Version number reset",
+    "summary": "The add-on’s version number is now 1.0.0. Players won’t notice a difference in the game.",
+    "impact": "behind-the-scenes",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T01:16:31.400Z"
+  },
+  "fca32851302943f1": {
+    "headline": "Version number reset",
+    "summary": "The add-on’s version number is now 1.0.0. Players won’t notice a difference in the game.",
+    "impact": "behind-the-scenes",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T01:16:31.400Z"
+  },
+  "a1f5d267069f3571": {
+    "headline": "Version number reset",
+    "summary": "The add-on’s version number is now 1.0.0. Players won’t notice a difference in the game.",
+    "impact": "behind-the-scenes",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T01:16:31.400Z"
+  },
+  "274afa0550789be0": {
+    "headline": "Version number reset",
+    "summary": "The add-on’s version number is now 1.0.0, and the displayed version now follows that setting. Players may see the updated number in exports and help text.",
+    "impact": "visible",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T01:16:31.400Z"
+  },
+  "0694e3a4bc28707d": {
+    "headline": "Version number reset",
+    "summary": "The add-on’s version number is now 1.0.0. Players won’t notice a difference in the game.",
+    "impact": "behind-the-scenes",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T01:16:31.400Z"
+  },
+  "d85c52b94f7d95e5": {
+    "headline": "Version number reset",
+    "summary": "The add-on’s version number is now 1.0.0, and the version shown in the filter description now follows that setting. Players may see the updated number there.",
+    "impact": "visible",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T01:16:31.400Z"
+  },
+  "8d8655e502c60d56": {
+    "headline": "Version number reset",
+    "summary": "The add-on’s version number is now 1.0.0. Players may see this number in the title bar and startup message; gameplay is unchanged.",
+    "impact": "visible",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T01:16:31.400Z"
+  },
+  "192b42a82d7ef4d1": {
+    "headline": "Bug and crash reports now reach Discord",
+    "summary": "The add-on can send bug, crash and session reports through a relay. Players can use the bug-report option, and the relay keeps the private reporting details off their computers.",
+    "impact": "visible",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T01:16:31.400Z"
+  },
+  "8f7e0c6c4d9da99a": {
+    "headline": "Simplified help page",
+    "summary": "The add-on’s help page no longer includes setup notes intended for project maintainers. Players looking for game help will see the player-facing guidance.",
+    "impact": "visible",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T01:16:31.400Z"
+  },
+  "8c9140fe7e1f0dc5": {
+    "headline": "Play without a forced 60 Hz limit",
+    "summary": "Players can use different frame rates and screen refresh rates without the add-on forcing a 60 Hz setting. Existing installs also move away from the old default; an optional frame-rate cap remains available.",
+    "impact": "visible",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T01:16:31.400Z"
+  },
+  "bcbb1c02777ede89": {
+    "headline": "Clearer messages during play",
+    "summary": "Players will see important notices, such as warnings about saves, while routine actions handled automatically stay out of the way. A setting can show the extra details if wanted.",
+    "impact": "visible",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T01:16:31.400Z"
+  },
+  "de87130ff157670d": {
+    "headline": "Easier ways to report problems",
+    "summary": "Players can open a bug report with a screenshot and details about what happened, or have crash and freeze reports sent automatically. This makes more information available when diagnosing problems.",
+    "impact": "visible",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T01:16:31.400Z"
+  },
+  "b76e26e305487733": {
+    "headline": "Better recovery when sound disconnects",
+    "summary": "If the only sound output briefly disappears, the add-on can help restore sound and prevent a related endless loading screen in the first game. Players may see a notice if sound is lost.",
+    "impact": "visible",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T01:16:31.400Z"
+  },
+  "bdf43700019fd7a8": {
+    "headline": "Loading screen fix updated",
+    "summary": "The add-on’s version information was updated alongside an earlier fix for endless loading screens in the first game. Players with that issue may notice the fix; the version change itself is behind the scenes.",
+    "impact": "visible",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T01:16:31.400Z"
+  },
+  "d63080bb72722cee": {
+    "headline": "Fix for endless loading screens",
+    "summary": "The add-on can recover from a particular sound-related problem that could leave the first game stuck on a loading screen. Players affected by that issue may notice the difference.",
+    "impact": "visible",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T01:16:31.400Z"
+  },
+  "49c9de4dbf167202": {
+    "headline": "Freeze reports include more detail",
+    "summary": "Before closing a frozen game, the add-on now saves a snapshot that can help explain what happened. Players may notice the game closes as before; the extra diagnostic detail is behind the scenes.",
+    "impact": "behind-the-scenes",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T01:16:31.400Z"
+  },
+  "d663737ae20c98d0": {
+    "headline": "Fix for the Quit Game crash",
+    "summary": "The add-on now prevents a crash or freeze that could happen when leaving a game, and can analyze crash snapshots to help identify problems. Players may notice the improved exit behavior.",
+    "impact": "visible",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T01:16:31.400Z"
+  },
+  "9495393c825cb64e": {
+    "headline": "First release of the hotfix",
+    "summary": "The add-on backs up saves and can restore a damaged save, helps with crashes and freezes, and includes a panic shortcut. Players can install it alongside the game without changing game files.",
+    "impact": "visible",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T01:16:31.400Z"
+  },
+  "d41ffd5b28dbbbb4": {
+    "headline": "A new screenshot overlay and clean cards",
+    "summary": "The add-on has been rebuilt with settings, countdowns, key bindings and per-character notes. Players can also take a clean character card screenshot, with character details shown in the image.",
+    "impact": "visible",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T01:16:31.400Z"
+  },
+  "6efd8cf5ab344763": {
+    "headline": "Alerts when data fetching keeps failing",
+    "summary": "The project can now send a check-in after each data-fetching cycle, which can trigger an email alert if fetching keeps failing. This is behind the scenes; visitors won’t notice a difference on the website.",
+    "impact": "behind-the-scenes",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T01:16:31.400Z"
+  },
+  "088d9f82018f72b1": {
+    "headline": "Data fetching moved onto the server",
+    "summary": "A service on the server now refreshes add-on statistics and recent activity, replacing the previous scheduled process. This keeps the website’s live data updating without requiring a full site rebuild; visitors will notice the updated figures and activity.",
+    "impact": "visible",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T01:16:31.400Z"
+  },
+  "db987a26caf910ea": {
+    "headline": "Website design and live data improved",
+    "summary": "The website has a refreshed layout, and its add-on statistics and recent activity can update without rebuilding the site. Visitors will notice the updated design and more current information.",
+    "impact": "visible",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T01:16:31.400Z"
+  },
+  "8a0d7e995304ed43": {
+    "headline": "Clearer activity chart and update details",
+    "summary": "Visitors will see larger, easier-to-read labels in the activity chart. The update details also describe added and removed lines more clearly.",
+    "impact": "visible",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T01:21:16.840Z"
+  },
+  "94fb5c0907f3f366": {
+    "headline": "Expanded game version support",
+    "summary": "Players can use the add-on with an additional World of Warcraft version. Nothing else about its features changed.",
+    "impact": "visible",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T01:21:16.840Z"
+  },
+  "c462d75616079093": {
+    "headline": "Expanded game version support",
+    "summary": "Players can use the add-on with an additional World of Warcraft version. Nothing else about its features changed.",
+    "impact": "visible",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T01:21:16.840Z"
+  },
+  "af58034bfc45bb53": {
+    "headline": "Expanded game version support",
+    "summary": "Players can use the add-on with an additional World of Warcraft version. Nothing else about its features changed.",
+    "impact": "visible",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T01:21:16.840Z"
+  },
+  "b0602a4a3f907c01": {
+    "headline": "Expanded game version support",
+    "summary": "Players can use the add-on with an additional World of Warcraft version. Nothing else about its features changed.",
+    "impact": "visible",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T01:21:16.840Z"
+  },
+  "47e7dc26b518c8a8": {
+    "headline": "Added support for a newer game version",
+    "summary": "Players can now use the add-on with an additional supported game version.",
+    "impact": "visible",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T11:56:01.258Z"
+  },
+  "c25f88a3d29e6aa0": {
+    "headline": "Added support for a newer game version",
+    "summary": "Players can now use the add-on with an additional supported game version.",
+    "impact": "visible",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T11:56:01.258Z"
+  },
+  "79900e3e3149fb28": {
+    "headline": "Added support for a newer game version",
+    "summary": "Players can now use the add-on with an additional supported game version.",
+    "impact": "visible",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T11:56:01.258Z"
+  },
+  "f9629216a0d59f58": {
+    "headline": "Added support for a newer game version",
+    "summary": "Players can now use the add-on with an additional supported game version.",
+    "impact": "visible",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T11:56:01.258Z"
+  },
+  "42722e872c93568c": {
+    "headline": "Added support for a newer game version",
+    "summary": "Players can now use the add-on with an additional supported game version.",
+    "impact": "visible",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T11:56:01.258Z"
+  },
+  "a1734706009df04e": {
+    "headline": "Updated release details",
+    "summary": "This is a behind-the-scenes update to the add-on's release information. Players won't notice a difference.",
+    "impact": "behind-the-scenes",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T11:56:01.258Z"
+  },
+  "85570c6cda6a3f6d": {
+    "headline": "Updated release details",
+    "summary": "This is a behind-the-scenes update to the add-on's release information. Players won't notice a difference.",
+    "impact": "behind-the-scenes",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T11:56:01.258Z"
+  },
+  "5ff45ddb9c372bc3": {
+    "headline": "Updated release details",
+    "summary": "This is a behind-the-scenes update to the add-on's release information. Players won't notice a difference.",
+    "impact": "behind-the-scenes",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T11:56:01.258Z"
+  },
+  "3e8e413aa6ab9e95": {
+    "headline": "Updated release details",
+    "summary": "This is a behind-the-scenes update to the add-on's release information. Players won't notice a difference.",
+    "impact": "behind-the-scenes",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T11:56:01.258Z"
+  },
+  "e9ba18615f22018f": {
+    "headline": "Updated release details",
+    "summary": "This is a behind-the-scenes update to the add-on's release information. Players won't notice a difference.",
+    "impact": "behind-the-scenes",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T11:56:01.258Z"
+  },
+  "1d8d681c8f9091da": {
+    "headline": "Updated release details",
+    "summary": "This is a behind-the-scenes update to the add-on's release information. Players won't notice a difference.",
+    "impact": "behind-the-scenes",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T11:56:01.258Z"
+  },
+  "6806276cd528e50f": {
+    "headline": "Updated release details",
+    "summary": "This is a behind-the-scenes update to the add-on's release information. Players won't notice a difference.",
+    "impact": "behind-the-scenes",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T11:56:01.258Z"
+  },
+  "876b0aee2f4765a6": {
+    "headline": "Updated release details",
+    "summary": "This is a behind-the-scenes update to the add-on's release information. Players won't notice a difference.",
+    "impact": "behind-the-scenes",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T11:56:01.258Z"
+  },
+  "606103d0ccaec150": {
+    "headline": "Updated release details",
+    "summary": "This is a behind-the-scenes update to the add-on's release information. Players won't notice a difference.",
+    "impact": "behind-the-scenes",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T11:56:01.258Z"
+  },
+  "64407f3e2e96355f": {
+    "headline": "Updated game support and release details",
+    "summary": "The add-on now lists updated supported game versions, and its automatic CurseForge upload is set to the newer release. Players may notice the updated game support; the upload change happens behind the scenes.",
+    "impact": "visible",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T11:56:01.258Z"
+  },
+  "26427e9d3d00cbe8": {
+    "headline": "Support for a newer game version",
+    "summary": "The add-on is marked as compatible with WoW 12.1.5. Players on that version will see the updated compatibility information; the add-on’s features are unchanged.",
+    "impact": "behind-the-scenes",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T11:56:01.258Z"
+  },
+  "ea8911aa032fca8f": {
+    "headline": "Support for a newer game version",
+    "summary": "The add-on is marked as compatible with WoW 12.1.5. Players on that version will see the updated compatibility information; the add-on’s features are unchanged.",
+    "impact": "behind-the-scenes",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T11:56:01.258Z"
+  },
+  "2abce6ca818eb8d2": {
+    "headline": "Support for a newer game version",
+    "summary": "The add-on is marked as compatible with WoW 12.1.5. Players on that version will see the updated compatibility information; the add-on’s features are unchanged.",
+    "impact": "behind-the-scenes",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T11:56:01.258Z"
+  },
+  "dac1802f17e2dedd": {
+    "headline": "Support for a newer game version",
+    "summary": "The add-on is marked as compatible with WoW 12.1.5. Players on that version will see the updated compatibility information; the add-on’s features are unchanged.",
+    "impact": "behind-the-scenes",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T11:56:01.258Z"
+  },
+  "f1f3ffec24ef65c3": {
+    "headline": "Support for a newer game version",
+    "summary": "The add-on is marked as compatible with WoW 12.1.5. Its map markers and other features are unchanged.",
+    "impact": "behind-the-scenes",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T11:56:01.258Z"
+  },
+  "b234b1345d494e27": {
+    "headline": "Support for a newer game version",
+    "summary": "The add-on is marked as compatible with WoW 12.1.5. Its map markers and other features are unchanged.",
+    "impact": "behind-the-scenes",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T11:56:01.258Z"
+  },
+  "73347e57083d6731": {
+    "headline": "Support for a newer game version",
+    "summary": "The add-on is marked as compatible with WoW 12.1.5. Its location markers are unchanged.",
+    "impact": "behind-the-scenes",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T11:56:01.258Z"
+  },
+  "77e834b2810c03e9": {
+    "headline": "Support for a newer game version",
+    "summary": "The add-on is marked as compatible with WoW 12.1.5. Its shrine locations and other features are unchanged.",
+    "impact": "behind-the-scenes",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T11:56:01.258Z"
+  },
+  "2c7fab73cc09cc67": {
+    "headline": "Support for a newer game version",
+    "summary": "The add-on is marked as compatible with WoW 12.1.5. Its features are unchanged.",
+    "impact": "behind-the-scenes",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T11:56:01.258Z"
+  },
+  "c539f91bbe0d6e89": {
+    "headline": "Updated game compatibility",
+    "summary": "The add-on’s compatibility information now includes additional game versions, including WoW 12.1.5. Its fishing tracking features are unchanged.",
+    "impact": "behind-the-scenes",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T11:56:01.258Z"
+  },
+  "8670a9d2929db820": {
+    "headline": "Support for a newer game version",
+    "summary": "The add-on is marked as compatible with WoW 12.1.5. Its fishing bag section is unchanged.",
+    "impact": "behind-the-scenes",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T11:56:01.258Z"
+  },
+  "a2814ef2548648d4": {
+    "headline": "Support for a newer game version",
+    "summary": "The add-on is marked as compatible with WoW 12.1.5. Its existing features are unchanged.",
+    "impact": "behind-the-scenes",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T11:56:01.258Z"
+  },
+  "a1a01add09cb9ab3": {
+    "headline": "Support for a newer game version",
+    "summary": "The add-on is marked as compatible with WoW 12.1.5. Its fishing bag section is unchanged.",
+    "impact": "behind-the-scenes",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T11:56:01.258Z"
+  },
+  "2b45e53670c1eb1b": {
+    "headline": "A new Twitch reward is listed",
+    "summary": "Players can now see a golden-colored Grrgle decor reward for watching four hours of WoW streams. The campaign is listed as running from October 13 to November 3, 2026.",
+    "impact": "visible",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T11:56:01.258Z"
+  },
+  "49a5b20b4ed358aa": {
+    "headline": "Updated game compatibility",
+    "summary": "The add-on’s compatibility information was updated for a different WoW version. No change to its level-up sound is described.",
+    "impact": "behind-the-scenes",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T11:56:01.258Z"
+  },
+  "509d75da1a76cc4e": {
+    "headline": "Updated game compatibility",
+    "summary": "The add-on’s compatibility details were updated. Players may notice this when using it with a supported game version.",
+    "impact": "visible",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T11:56:01.258Z"
+  },
+  "dc807ae481f63a31": {
+    "headline": "Updated game compatibility",
+    "summary": "The add-on’s compatibility details were updated. Players may notice this when using it with a supported game version.",
+    "impact": "visible",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T11:56:01.258Z"
+  },
+  "f77b7a773c5f8463": {
+    "headline": "Updated game compatibility",
+    "summary": "The add-on’s compatibility details were updated. Players may notice this when using it with a supported game version.",
+    "impact": "visible",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T11:56:01.258Z"
+  },
+  "a8dc428ad786d0c2": {
+    "headline": "Updated game compatibility",
+    "summary": "The add-on’s compatibility details were updated. Players may notice this when using it with a supported game version.",
+    "impact": "visible",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T11:56:01.258Z"
+  },
+  "edee6d4a37fa3828": {
+    "headline": "Updated game compatibility",
+    "summary": "The add-on’s compatibility details were updated. Players may notice this when using it with a supported game version.",
+    "impact": "visible",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T11:56:01.258Z"
+  },
+  "64d158d48ce439f8": {
+    "headline": "Improved Classic client support",
+    "summary": "Players can now choose whether their realm is shown, and character names with spaces are supported. Returning from a corpse run will no longer add another encounter to the history.",
+    "impact": "visible",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T11:56:01.258Z"
+  },
+  "96f294a5ab0a5ef6": {
+    "headline": "Added WoW: Forever support",
+    "summary": "Players on WoW: Forever will see fishing gear sorted using items available in that game version, avoiding issues with items from other versions.",
+    "impact": "visible",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T11:56:01.258Z"
+  },
+  "af5127a1fd398582": {
+    "headline": "Updated checkbox appearance handling",
+    "summary": "This is behind-the-scenes upkeep to keep the add-on’s checkboxes working as game features change. Players won’t notice a difference.",
+    "impact": "behind-the-scenes",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T11:56:01.258Z"
+  },
+  "c5b0f5d569226839": {
+    "headline": "Added WoW: Forever support",
+    "summary": "Players on WoW: Forever will see campaigns for their game version instead of rewards meant for other versions.",
+    "impact": "visible",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T11:56:01.258Z"
+  },
+  "cb77b5a0e13b7ed4": {
+    "headline": "Made reward checks more reliable",
+    "summary": "The add-on now checks whether the right game features are available before checking if rewards are owned. Players may notice fewer errors on some game versions.",
+    "impact": "visible",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T11:56:01.258Z"
+  },
+  "2a4e976965ddf563": {
+    "headline": "Added WoW: Forever support",
+    "summary": "The add-on can now be listed for WoW: Forever. This update changes compatibility and publishing details; it does not describe a change to what players see in-game.",
+    "impact": "behind-the-scenes",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T11:56:01.258Z"
+  },
+  "fada09e36c79eb35": {
+    "headline": "Added Classic game support",
+    "summary": "The add-on can now be listed for WoW: Forever. This update changes compatibility and publishing details; it does not describe a change to what players see in-game.",
+    "impact": "behind-the-scenes",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T11:56:01.258Z"
+  },
+  "bbde6e624c537795": {
+    "headline": "Added WoW: Forever support",
+    "summary": "The add-on can now be listed for WoW: Forever. This update changes compatibility and publishing details; it does not describe a change to what players see in-game.",
+    "impact": "behind-the-scenes",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T11:56:01.258Z"
+  },
+  "6ff8add6a98748f0": {
+    "headline": "Added WoW: Forever support",
+    "summary": "The add-on can now be listed for WoW: Forever. This update changes compatibility and publishing details; it does not describe a change to what players see in-game.",
+    "impact": "behind-the-scenes",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T11:56:01.258Z"
+  },
+  "8a936bbfcc4df01a": {
+    "headline": "Added WoW: Forever support",
+    "summary": "The add-on can now be listed for WoW: Forever. This update changes compatibility and publishing details; it does not describe a change to what players see in-game.",
+    "impact": "behind-the-scenes",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T11:56:01.258Z"
+  },
+  "11b62094adc08f39": {
+    "headline": "Classic Anniversary support added",
+    "summary": "Players on WoW Forever can now use the add-on. The change only adds compatibility for that game version.",
+    "impact": "visible",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T11:56:01.258Z"
+  },
+  "29560aa6480af1e4": {
+    "headline": "Classic Era support added",
+    "summary": "Players on WoW Forever can now use the add-on. The change only adds compatibility for that game version.",
+    "impact": "visible",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T11:56:01.258Z"
+  },
+  "92f8582f724be0a3": {
+    "headline": "Classic WoW support added",
+    "summary": "Players on WoW Forever can now use the add-on. The change only adds compatibility for that game version.",
+    "impact": "visible",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T11:56:01.258Z"
+  },
+  "f2336fada088f85d": {
+    "headline": "Support for WoW Forever added",
+    "summary": "Players on WoW Forever can now use the add-on. The removed notes and publishing updates won't change how it works for players.",
+    "impact": "visible",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T11:56:01.258Z"
+  },
+  "3b5253fbd12bfd23": {
+    "headline": "Fewer mistaken group messages",
+    "summary": "Players are less likely to get an automatic greeting or farewell when they reconnect or log in while already in a group.",
+    "impact": "visible",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T11:56:01.258Z"
+  },
+  "65e0be84a6a96770": {
+    "headline": "Behind-the-scenes upkeep",
+    "summary": "This internal adjustment won't change anything players see or do in the add-on.",
+    "impact": "behind-the-scenes",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T11:56:01.258Z"
+  },
+  "917944beb739757c": {
+    "headline": "Removed a troublesome setting",
+    "summary": "Players should no longer see misleading errors caused by the removed setting.",
+    "impact": "visible",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T11:56:01.258Z"
+  },
+  "c53629040b38bd5d": {
+    "headline": "Safer handling of player names",
+    "summary": "The add-on now handles restricted player name details more carefully, helping avoid errors in situations such as Delves.",
+    "impact": "visible",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T11:56:01.258Z"
+  },
+  "161c20a5f274bb44": {
+    "headline": "More reliable collection tracking",
+    "summary": "The add-on now handles collection updates more carefully across game versions, so an unavailable update notice won't stop it from loading.",
+    "impact": "visible",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T11:56:01.258Z"
+  },
+  "a742ed0c971f565c": {
+    "headline": "Behind-the-scenes publishing update",
+    "summary": "The automatic upload is now set up for the right project. Players won't notice a difference in the add-on.",
+    "impact": "behind-the-scenes",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T11:56:01.258Z"
+  },
+  "ffc92cc218ba2dbc": {
+    "headline": "Clearer catch values and exports",
+    "summary": "Players will see a wider value column, colored gold, silver and copper amounts, and their game region in exported catch details. Long catch counts should also fit better.",
+    "impact": "visible",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T11:56:01.258Z"
+  },
+  "98d070f72cd4b3a5": {
+    "headline": "Behind-the-scenes guide update",
+    "summary": "The project guide was adjusted, but players won't notice a change in the add-on.",
+    "impact": "behind-the-scenes",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T11:56:01.258Z"
+  },
+  "12cf3e0e251b60c4": {
+    "headline": "Behind-the-scenes publishing update",
+    "summary": "The automatic upload is now set up for the right project. Players won't notice a difference in the add-on.",
+    "impact": "behind-the-scenes",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T11:56:01.258Z"
+  },
+  "a8be8c2df67215d0": {
+    "headline": "More fishing details and tools",
+    "summary": "Players can now track catches across earlier game expansions, see more precise rates for rare fish, and export catch details with a location. The update also adds sorting and display improvements.",
+    "impact": "visible",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T11:56:01.258Z"
+  },
+  "4a21b88732da2098": {
+    "headline": "More catches recognized",
+    "summary": "The add-on now recognizes fish from earlier game expansions, so players can track more of their catches.",
+    "impact": "visible",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T11:56:01.258Z"
+  },
+  "adf582458a61faaf": {
+    "headline": "Set up automatic uploads",
+    "summary": "This changes where the add-on’s automatic upload is sent. Players won’t notice a difference in the game.",
+    "impact": "behind-the-scenes",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T18:00:42.638Z"
+  },
+  "8249a3ec674b01c8": {
+    "headline": "Fishing tracker released",
+    "summary": "The new add-on tracks fishing catches, shows what you caught, and can display estimated values. Players can use it while fishing in-game.",
+    "impact": "visible",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T18:00:42.638Z"
+  },
+  "0669557ca2c99b45": {
+    "headline": "Reward checks update sooner",
+    "summary": "The add-on now checks for newly collected rewards during play and after reloading or logging in. Players may see rewards marked as collected sooner.",
+    "impact": "visible",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T18:00:42.638Z"
+  },
+  "9ef920b0e86d6792": {
+    "headline": "Added a fishing pole",
+    "summary": "The add-on’s fishing gear list now includes another pole. Players sorting their bags will see it in the fishing section.",
+    "impact": "visible",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T18:00:42.638Z"
+  },
+  "b7eee57c2d331f8d": {
+    "headline": "Added a fishing pole",
+    "summary": "The add-on’s fishing gear list now includes another pole. Players sorting their bags will see it in the fishing section.",
+    "impact": "visible",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T18:00:42.638Z"
+  },
+  "a159b432bdff3efb": {
+    "headline": "Improved outfit reward tracking",
+    "summary": "The add-on now treats this outfit reward as a set and checks its individual pieces. Players tracking the reward may see ownership recorded more accurately.",
+    "impact": "visible",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T18:00:42.638Z"
+  },
+  "94b9bd5d7db75f14": {
+    "headline": "Clarified reward checking advice",
+    "summary": "The help text now recommends checking rewards in-game before marking them collected by hand. This is a guidance change; players will see no change to how the add-on works.",
+    "impact": "behind-the-scenes",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T18:00:42.638Z"
+  },
+  "50a51bfd6c69dedb": {
+    "headline": "Updated campaign label",
+    "summary": "The campaign label now shows the newer season number. Players will see the updated label in the add-on.",
+    "impact": "visible",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T18:00:42.638Z"
+  },
+  "123f98fc81743999": {
+    "headline": "Removed a help detail",
+    "summary": "A note about the screenshot overlay’s saved position was removed from the project’s help text. The add-on itself is unchanged, so players won’t notice a difference.",
+    "impact": "behind-the-scenes",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T18:00:42.638Z"
+  },
+  "9c1f1e12cec7254e": {
+    "headline": "Removed an outdated note",
+    "summary": "An explanatory note was removed from the project’s settings description. This does not change how the add-on works, so players won’t notice a difference.",
+    "impact": "behind-the-scenes",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T18:00:42.638Z"
+  },
+  "ed318cb19d7987cb": {
+    "headline": "Test update",
+    "summary": "This appears to be a test update, with no change described for players.",
+    "impact": "behind-the-scenes",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T18:00:42.638Z"
+  },
+  "457fbe611383b4f5": {
+    "headline": "Removed a closing line",
+    "summary": "A closing line was removed from the project’s help text. The add-on itself is unchanged, so players won’t notice a difference.",
+    "impact": "behind-the-scenes",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T18:00:42.638Z"
+  },
+  "5598dc3d0f2c6560": {
+    "headline": "Updated level-cap information",
+    "summary": "The help text now highlights that the add-on adapts to new level caps. This describes existing behavior; no change to the add-on is shown.",
+    "impact": "behind-the-scenes",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T18:00:42.638Z"
+  },
+  "a4d618cb4b20c4bb": {
+    "headline": "Clarified map note",
+    "summary": "The help text now has a clearer separation before the note about completing the required quest. The add-on itself is unchanged.",
+    "impact": "behind-the-scenes",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T18:00:42.638Z"
+  },
+  "ec7d7ade4498101e": {
+    "headline": "Clarified map note",
+    "summary": "The help text now presents the quest requirement as a separate note. The add-on itself is unchanged, so players won’t notice a difference.",
+    "impact": "behind-the-scenes",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T18:00:42.638Z"
+  },
+  "f88e29740c2166b2": {
+    "headline": "Small wording change",
+    "summary": "The add-on’s thank-you message was shortened. Players won’t notice a change in the game.",
+    "impact": "behind-the-scenes",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T18:00:42.638Z"
+  },
+  "aefb952729d87bf7": {
+    "headline": "Updated project details",
+    "summary": "The add-on’s displayed creator information was updated. Players won’t notice a change to the map markers.",
+    "impact": "behind-the-scenes",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T18:00:42.638Z"
+  },
+  "045da18832b1eaf2": {
+    "headline": "Added a guild reminder",
+    "summary": "The instructions now say to be in the specified guild on EU Skullcrusher before using the add-on. This clarifies who it is intended for.",
+    "impact": "behind-the-scenes",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T18:00:42.638Z"
+  },
+  "f0dfb5d0f4154d26": {
+    "headline": "Clarified an add-on requirement",
+    "summary": "The instructions now say the add-on needs BetterBags. Users will see clearer setup guidance; the add-on itself is unchanged.",
+    "impact": "behind-the-scenes",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T18:00:42.638Z"
+  },
+  "5739a45a24de832a": {
+    "headline": "Simplified command instructions",
+    "summary": "The instructions no longer mention opening settings through the add-on’s interface. The available commands are unchanged.",
+    "impact": "behind-the-scenes",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T18:00:42.638Z"
+  },
+  "9be0c783b690ca07": {
+    "headline": "Shortened the instructions",
+    "summary": "The instructions no longer include a command for opening AdiBags. No change to the add-on’s behavior is shown.",
+    "impact": "behind-the-scenes",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T18:00:42.638Z"
+  },
+  "83c4b3e3fd5d0ee3": {
+    "headline": "Adjusted automatic uploads",
+    "summary": "The automatic upload setup was reverted. Players won’t notice a change in the add-on itself.",
+    "impact": "behind-the-scenes",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T18:00:42.638Z"
+  },
+  "58de0cddfe02605e": {
+    "headline": "Made releases more reliable",
+    "summary": "The automatic release process now has backup details for its release name and notes. Players won’t notice a change in-game.",
+    "impact": "behind-the-scenes",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T18:00:42.638Z"
+  },
+  "080c6a664e0cbe96": {
+    "headline": "Simplified feature descriptions",
+    "summary": "The instructions no longer mention three separate campaign tabs. No change to the campaign information shown in-game is described.",
+    "impact": "behind-the-scenes",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T18:00:42.638Z"
+  },
+  "f989e98a2a45d310": {
+    "headline": "Added a manual upload option",
+    "summary": "The project can now be uploaded on demand as well as automatically. Players won’t notice a change in the add-on.",
+    "impact": "behind-the-scenes",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T18:00:42.638Z"
+  },
+  "cdcbe62d08099f0c": {
+    "headline": "Added a Twitch reward campaign",
+    "summary": "Players can now see a campaign for a transmog reward, including its viewing requirement and dates. The add-on was also updated for a newer game release.",
+    "impact": "visible",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T18:00:42.638Z"
+  },
+  "571aa0faac8fd929": {
+    "headline": "Updated for a newer game release",
+    "summary": "The add-on’s release information was updated for a newer version of World of Warcraft. No change to its screenshot features is described.",
+    "impact": "behind-the-scenes",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T18:00:42.638Z"
+  },
+  "6e250f4fe163ffa6": {
+    "headline": "Updated for a newer game release",
+    "summary": "The add-on’s release information was updated for a newer version of World of Warcraft. No change to its tracking features is described.",
+    "impact": "behind-the-scenes",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T18:00:42.638Z"
+  },
+  "124a4d34b15a45c8": {
+    "headline": "Updated for a newer game release",
+    "summary": "The add-on’s release information was updated for a newer version of World of Warcraft. No change to its level-up sound is described.",
+    "impact": "behind-the-scenes",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T18:00:42.638Z"
+  },
+  "8e3aa2f164f652ea": {
+    "headline": "Updated for a newer game release",
+    "summary": "The add-on’s release information was updated for a newer version of World of Warcraft. No change to its level-tracking features is described.",
+    "impact": "behind-the-scenes",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T18:00:42.638Z"
+  },
+  "5c7b3e6457d5e02f": {
+    "headline": "Updated for the latest game version",
+    "summary": "The add-on has been updated for the latest game version. Players may need this update to keep using its map markers.",
+    "impact": "visible",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T18:00:42.638Z"
+  },
+  "827ad7c79bc9a6de": {
+    "headline": "Updated for the latest game version",
+    "summary": "The add-on has been updated for the latest game version. Players may need this update to keep using its map markers.",
+    "impact": "visible",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T18:00:42.638Z"
+  },
+  "3fb9c6c23b8ef0fb": {
+    "headline": "Updated for the latest game version",
+    "summary": "The add-on has been updated for the latest game version. Players may need this update to keep using its map markers.",
+    "impact": "visible",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T18:00:42.638Z"
+  },
+  "fdc0488df68dcf63": {
+    "headline": "Updated for the latest game version",
+    "summary": "The add-on has been updated for the latest game version. Players may need this update to keep using its map markers.",
+    "impact": "visible",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T18:00:42.638Z"
+  },
+  "3492bf6357a095a8": {
+    "headline": "Updated for the latest game version",
+    "summary": "The add-on has been updated for the latest game version. Guild members may need this update to keep using it.",
+    "impact": "visible",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T18:00:42.638Z"
+  },
+  "222f0f3b50f17743": {
+    "headline": "Updated for the latest game version",
+    "summary": "The add-on has been updated for the latest game version. Players may need this update to keep their fishing items sorted in BetterBags.",
+    "impact": "visible",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T18:00:42.638Z"
+  },
+  "3cf8bc34aadb6a7f": {
+    "headline": "Updated for the latest game version",
+    "summary": "The add-on has been updated for the latest game version. Players may need this update to keep its automatic group messages working.",
+    "impact": "visible",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T18:00:42.638Z"
+  },
+  "ea013e4418472c1e": {
+    "headline": "Updated for the latest game version",
+    "summary": "The add-on has been updated for the latest game version. Players may need this update to keep their fishing items sorted in AdiBags.",
+    "impact": "visible",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T18:00:42.638Z"
+  },
+  "6222a992a06e2be3": {
+    "headline": "Updated for the latest game version",
+    "summary": "The add-on's game-version information was updated. Players may need this update to keep using it.",
+    "impact": "visible",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T18:00:42.638Z"
+  },
+  "088b70b2862fde74": {
+    "headline": "Updated for the latest game version",
+    "summary": "The add-on's game-version information was updated. Players may need this update to keep their fishing items sorted in BetterBags.",
+    "impact": "visible",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T18:00:42.638Z"
+  },
+  "27b216ec5ef54e1b": {
+    "headline": "Updated for the latest game version",
+    "summary": "The add-on's game-version information was updated. Players may need this update to keep its automatic group messages working.",
+    "impact": "visible",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T18:00:42.638Z"
+  },
+  "bb06f43b9df04149": {
+    "headline": "Updated for the latest game version",
+    "summary": "The add-on's game-version information was updated. Players may need this update to keep their fishing items sorted in AdiBags.",
+    "impact": "visible",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T18:00:42.638Z"
+  },
+  "c7013d989d518d78": {
+    "headline": "Fixed map marker errors",
+    "summary": "The add-on now handles situations where the map marker list is empty more safely. Players should no longer see the related errors when viewing other maps or the minimap.",
+    "impact": "visible",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T18:00:42.638Z"
+  },
+  "3e85211850805c3c": {
+    "headline": "Fixed map marker errors",
+    "summary": "The add-on now handles situations where the map marker list is empty more safely. Players should no longer see the related errors when viewing other maps or the minimap.",
+    "impact": "visible",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T18:00:42.638Z"
+  },
+  "5264e01877195139": {
+    "headline": "Updated teleport locations",
+    "summary": "Players will see revised map locations and names for several teleport points.",
+    "impact": "visible",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T18:00:42.638Z"
+  },
+  "eaaf6f643cb4d7e1": {
+    "headline": "Tidied map notes",
+    "summary": "This is behind-the-scenes upkeep of the add-on’s map display notes. Players won’t notice a difference.",
+    "impact": "behind-the-scenes",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T18:00:42.638Z"
+  },
+  "1c946fe8647ea726": {
+    "headline": "Updated automatic publishing",
+    "summary": "This behind-the-scenes change updates where the add-on is sent when published. Players won’t notice a difference.",
+    "impact": "behind-the-scenes",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T18:00:42.638Z"
+  },
+  "56c50757911b537c": {
+    "headline": "Added a teleport location",
+    "summary": "Players will now see the Void Acropolis Interior on the map. Two other teleport labels were also updated to match their in-game names.",
+    "impact": "visible",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T18:00:42.638Z"
+  },
+  "aec5e5ac29bdbb30": {
+    "headline": "First release of the add-on",
+    "summary": "The add-on is now available, with map markers for three teleport locations in Val. Players can hover over a marker to see its name and description.",
+    "impact": "visible",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T18:00:42.638Z"
+  },
+  "cd8825ddc7acbedd": {
+    "headline": "Updated the add-on description",
+    "summary": "This behind-the-scenes change clarifies what the add-on does. Players won’t notice a difference in the game.",
+    "impact": "behind-the-scenes",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T18:00:42.638Z"
+  },
+  "d1dda513ed07aee5": {
+    "headline": "Updated game compatibility",
+    "summary": "The add-on’s release information now reflects a newer game update. Players won’t notice a difference from this change alone.",
+    "impact": "behind-the-scenes",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T18:00:42.638Z"
+  },
+  "68247b36e397e6c8": {
+    "headline": "Updated game compatibility",
+    "summary": "The add-on’s release information now reflects a newer game update. Players won’t notice a difference from this change alone.",
+    "impact": "behind-the-scenes",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T18:00:42.638Z"
+  },
+  "402970240f3cbb1c": {
+    "headline": "Updated game compatibility",
+    "summary": "The add-on’s release information now reflects a newer game update. Players won’t notice a difference from this change alone.",
+    "impact": "behind-the-scenes",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T18:00:42.638Z"
+  },
+  "41f9ed2d094b7739": {
+    "headline": "Updated game compatibility",
+    "summary": "The add-on’s release information now reflects a newer game update. Players won’t notice a difference from this change alone.",
+    "impact": "behind-the-scenes",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T18:00:42.638Z"
+  },
+  "e06049ec51ddfcef": {
+    "headline": "Updated game compatibility",
+    "summary": "The add-on’s release information now reflects a newer game update. Players won’t notice a difference from this change alone.",
+    "impact": "behind-the-scenes",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T18:00:42.638Z"
+  },
+  "94bbfbfb51429e29": {
+    "headline": "Updated game compatibility",
+    "summary": "The add-on’s release information now reflects a newer game update. Players won’t notice a difference from this change alone.",
+    "impact": "behind-the-scenes",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T18:00:42.638Z"
+  },
+  "41b1091374b5e098": {
+    "headline": "Updated game compatibility",
+    "summary": "The add-on’s release information now reflects a newer game update. Players won’t notice a difference from this change alone.",
+    "impact": "behind-the-scenes",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T18:00:42.638Z"
+  },
+  "8bc0fff07ef3d7c1": {
+    "headline": "Updated game compatibility",
+    "summary": "The add-on’s release information now reflects a newer game update. Players won’t notice a difference from this change alone.",
+    "impact": "behind-the-scenes",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T18:00:42.638Z"
+  },
+  "cc5a2a4cdfb37a05": {
+    "headline": "Updated game compatibility",
+    "summary": "The add-on’s release information now reflects a newer game update. Players won’t notice a difference from this change alone.",
+    "impact": "behind-the-scenes",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T18:00:42.638Z"
+  },
+  "c8264cc74d559ab7": {
+    "headline": "Updated game compatibility",
+    "summary": "The add-on’s release information now reflects a newer game update. Players won’t notice a difference from this change alone.",
+    "impact": "behind-the-scenes",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T18:00:42.638Z"
+  },
+  "8a6c20631a57d5a3": {
+    "headline": "Updated for the latest game version",
+    "summary": "The add-on now lists support for the latest game version. Players using that version will see the updated compatibility information; no other changes are described.",
+    "impact": "behind-the-scenes",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T22:14:02.213Z"
+  },
+  "9438b37218efbcb1": {
+    "headline": "Updated the map icon",
+    "summary": "The add-on now uses a different map icon reference for its translocator locations. Players may notice the updated icon on the map.",
+    "impact": "visible",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T22:14:02.213Z"
+  },
+  "c6295b2580deab60": {
+    "headline": "Corrected translocator map locations",
+    "summary": "The add-on now uses updated map positions and a revised icon for the translocator markers. Players exploring Naigtal will see the markers in their corrected locations.",
+    "impact": "visible",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T22:14:02.213Z"
+  },
+  "e3265930f4c80ba9": {
+    "headline": "Added a user guide",
+    "summary": "A guide now explains the translocator locations, what the add-on does, and the quest needed to use them. Players can refer to it before heading to Naigtal.",
+    "impact": "visible",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T22:14:02.213Z"
+  },
+  "a52bca5f4ecfd4d7": {
+    "headline": "Set up a new release upload",
+    "summary": "The project is now set up to upload releases automatically. This is behind-the-scenes upkeep; players won't notice a difference from this change alone.",
+    "impact": "behind-the-scenes",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T22:14:02.213Z"
+  },
+  "89615ce61614ffe0": {
+    "headline": "First release of the map add-on",
+    "summary": "The new add-on marks four translocator locations on the Naigtal map and shows their names when hovered over. Players need to complete the required questline before using the network.",
+    "impact": "visible",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T22:14:02.213Z"
+  },
+  "56b333db62462cb9": {
+    "headline": "Updated for the latest game version",
+    "summary": "The add-on now lists support for the latest game version. Players using that version will see updated compatibility information; no other changes are described.",
+    "impact": "behind-the-scenes",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T22:14:02.213Z"
+  },
+  "c9ad4d26e787bf39": {
+    "headline": "Updated for the latest game version",
+    "summary": "The add-on now lists support for the latest game version. Players using that version will see updated compatibility information; no other changes are described.",
+    "impact": "behind-the-scenes",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T22:14:02.213Z"
+  },
+  "2e9f64086087d3e6": {
+    "headline": "Updated for the latest game version",
+    "summary": "The add-on now lists support for the latest game version. Players using that version will see updated compatibility information; no other changes are described.",
+    "impact": "behind-the-scenes",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T22:14:02.213Z"
+  },
+  "23deb68f4e4abec9": {
+    "headline": "Updated for the latest game version",
+    "summary": "The add-on now lists support for the latest game version. Players using that version will see updated compatibility information; no other changes are described.",
+    "impact": "behind-the-scenes",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T22:14:02.213Z"
+  },
+  "9d4ae056c9184738": {
+    "headline": "Updated for the latest game version",
+    "summary": "The add-on now lists support for the latest game version. Players using that version will see updated compatibility information; no other changes are described.",
+    "impact": "behind-the-scenes",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T22:14:02.213Z"
+  },
+  "ddaea5f0961d7c2b": {
+    "headline": "Updated for the latest game version",
+    "summary": "The add-on now lists support for the latest game version. Players using that version will see updated compatibility information; no other changes are described.",
+    "impact": "behind-the-scenes",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T22:14:02.213Z"
+  },
+  "527a7ee174e9ad76": {
+    "headline": "Updated for the latest game version",
+    "summary": "The add-on now lists support for the latest game version. Players using that version will see updated compatibility information; no other changes are described.",
+    "impact": "behind-the-scenes",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T22:14:02.213Z"
+  },
+  "be0d7a167ef3f827": {
+    "headline": "Updated for the latest game version",
+    "summary": "The add-on now lists support for the latest game version. Players using that version will see updated compatibility information; no other changes are described.",
+    "impact": "behind-the-scenes",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T22:14:02.213Z"
+  },
+  "1407486e07e07466": {
+    "headline": "Updated for the latest game version",
+    "summary": "The add-on now lists support for the latest game version. Players using that version will see updated compatibility information; no other changes are described.",
+    "impact": "behind-the-scenes",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T22:14:02.213Z"
+  },
+  "487fd3970679cda4": {
+    "headline": "Updated for the latest game version",
+    "summary": "The add-on now supports the latest listed game version. Players can keep using its existing features after updating the game.",
+    "impact": "visible",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T22:14:02.213Z"
+  },
+  "d4862366ebb4ff7f": {
+    "headline": "Updated for the latest game version",
+    "summary": "The add-on now supports the latest listed game version. Players can keep using its fishing bag section after updating the game.",
+    "impact": "visible",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T22:14:02.213Z"
+  },
+  "df349badd39a3c06": {
+    "headline": "Added a new Twitch reward",
+    "summary": "The bot now lists the Cuddly Cotton Candy Grrgle reward, available for watching four hours of World of Warcraft streams during the listed campaign dates. Players can check the reward in-game.",
+    "impact": "visible",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T22:14:02.213Z"
+  },
+  "2fbdab18e7ec6cb0": {
+    "headline": "Improved the companion prompt",
+    "summary": "The add-on now uses a custom prompt for its companion feature, with Enable and Keep Off choices and a separate option to stop reminders. Players will notice the updated prompt.",
+    "impact": "visible",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T22:14:02.213Z"
+  },
+  "51ec9c14fb89d04c": {
+    "headline": "Updated for Midnight",
+    "summary": "The add-on was updated for Midnight, with screenshot character details and a companion mode for use with other screenshot add-ons. Players will notice the refreshed screenshot experience.",
+    "impact": "visible",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T22:14:02.213Z"
+  },
+  "e5de2c78b20326f7": {
+    "headline": "Refreshed the add-on images",
+    "summary": "The add-on's help and settings screens now have updated images. Players will notice the refreshed visuals when browsing those screens.",
+    "impact": "visible",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T22:14:02.213Z"
+  },
+  "4d861a175f328d43": {
+    "headline": "Introduced a new social add-on",
+    "summary": "The add-on brings together automatic event messages, message settings and chat filters. Players can use it to manage how they interact with others in-game.",
+    "impact": "visible",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T22:14:02.213Z"
+  },
+  "7ada3a3e22775b4b": {
+    "headline": "Simplified player history details",
+    "summary": "The add-on now shows fewer timeline details in its tooltip and adjusts when it automatically tracks players. Users may notice less information in the tooltip.",
+    "impact": "visible",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T22:14:02.213Z"
+  },
+  "28ad6978a80029ae": {
+    "headline": "Behind-the-scenes publishing update",
+    "summary": "The project now includes information used to connect it with its download page. Players won't notice a difference.",
+    "impact": "behind-the-scenes",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T22:14:02.213Z"
+  },
+  "937621b6de38937e": {
+    "headline": "Behind-the-scenes publishing update",
+    "summary": "The project now includes information used to connect it with its download page. Players won't notice a difference.",
+    "impact": "behind-the-scenes",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T22:14:02.213Z"
+  },
+  "e64c8ec4d5863053": {
+    "headline": "Behind-the-scenes publishing update",
+    "summary": "The project now includes information used to connect it with its download page. Players won't notice a difference.",
+    "impact": "behind-the-scenes",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T22:14:02.213Z"
+  },
+  "f76cf7b50827094d": {
+    "headline": "Behind-the-scenes publishing update",
+    "summary": "The project now includes information used to connect it with its download page. Players won't notice a difference.",
+    "impact": "behind-the-scenes",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T22:14:02.213Z"
+  },
+  "0f79c90d011f68c6": {
+    "headline": "Behind-the-scenes publishing update",
+    "summary": "The project now includes information used to connect it with its download page. Players won't notice a difference.",
+    "impact": "behind-the-scenes",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T22:14:02.213Z"
+  },
+  "549f83877ed6598f": {
+    "headline": "Behind-the-scenes publishing update",
+    "summary": "The project now includes information used to connect it with its download page. Players won't notice a difference.",
+    "impact": "behind-the-scenes",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T22:14:02.213Z"
+  },
+  "adcb94262577869f": {
+    "headline": "Behind-the-scenes publishing update",
+    "summary": "The project now includes information used to connect it with its download page. Players won't notice a difference.",
+    "impact": "behind-the-scenes",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T22:14:02.213Z"
+  },
+  "a52529c230ad95b0": {
+    "headline": "Added publishing information",
+    "summary": "This is behind-the-scenes upkeep to help publishing tools connect the add-on with its listing. Players won't notice a difference.",
+    "impact": "behind-the-scenes",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T22:14:02.213Z"
+  },
+  "8a30e31049c9b1e2": {
+    "headline": "Added publishing information",
+    "summary": "This is behind-the-scenes upkeep to help publishing tools connect the add-on with its listing. Players won't notice a difference.",
+    "impact": "behind-the-scenes",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T22:14:02.213Z"
+  },
+  "2b46173f9ff2ceab": {
+    "headline": "Expanded the project guide",
+    "summary": "The guide now explains the add-on’s features, mood settings and commands in more detail. Players looking for help or setup instructions will notice the added information.",
+    "impact": "visible",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T22:14:02.213Z"
+  },
+  "4f634d580a55512c": {
+    "headline": "Introduced a new project",
+    "summary": "The project was introduced with a short description. This is an announcement; it does not describe a change to the add-on itself.",
+    "impact": "behind-the-scenes",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T22:14:02.213Z"
+  },
+  "4dafb76ddaff3572": {
+    "headline": "Updated the add-on icon",
+    "summary": "The add-on now uses a different reputation-themed icon. Players may notice the change in its listing or interface.",
+    "impact": "visible",
+    "model": "gpt-6-luna",
+    "at": "2026-11-01T22:14:02.213Z"
+  },
+  "678c6f88de97c005": {
+    "headline": "Options no longer block WoW Forever",
+    "summary": "Players on WoW Forever should no longer see the protected-function error when using the add-on’s options. The options page has also been changed to avoid sharing its rows with the game’s settings list.",
+    "impact": "visible",
+    "model": "gpt-6-luna",
+    "at": "2026-11-04T00:02:32.617Z"
+  },
+  "37049acaa4f3d4a8": {
+    "headline": "New Forever toy drop now tracked",
+    "summary": "WoW Forever players will see the Pouch of Violet Dust drop, available for watching four hours of WoW streams from November 4 to 12. The add-on also now correctly recognizes the Forever client so this drop appears there.",
+    "impact": "visible",
+    "model": "gpt-6-luna",
+    "at": "2026-11-05T11:14:50.867Z"
+  },
+  "89819c9715a85a6c": {
+    "headline": "Block low-level whispers reliably",
+    "summary": "In “Low-level only” mode, whispers from players at or below the level limit are now blocked more reliably. Players may notice fewer unwanted whispers; if the sender’s level can’t be checked, the existing short wait remains.",
+    "impact": "visible",
+    "model": "gpt-6-luna",
+    "at": "2026-11-06T16:02:05.912Z"
+  },
+  "f7821d8de0a93f93": {
+    "headline": "Updated the displayed author",
+    "summary": "The add-on’s author listing has changed. Players won’t notice a difference while playing.",
+    "impact": "behind-the-scenes",
+    "model": "gpt-6-luna",
+    "at": "2026-11-08T18:55:32.482Z"
+  },
+  "3a4d6c67dd5a6bad": {
+    "headline": "Updated the displayed author",
+    "summary": "The add-on’s author listing has changed. Players won’t notice a difference while playing.",
+    "impact": "behind-the-scenes",
+    "model": "gpt-6-luna",
+    "at": "2026-11-08T18:55:32.482Z"
+  },
+  "4f4ccf3a6fea2e42": {
+    "headline": "Updated the displayed author",
+    "summary": "The add-on’s author listing has changed. Players won’t notice a difference while playing.",
+    "impact": "behind-the-scenes",
+    "model": "gpt-6-luna",
+    "at": "2026-11-08T18:55:32.482Z"
+  },
+  "fe2e48b284ccc7ed": {
+    "headline": "Updated the displayed author",
+    "summary": "The add-on’s author listing has changed. Players won’t notice a difference while playing.",
+    "impact": "behind-the-scenes",
+    "model": "gpt-6-luna",
+    "at": "2026-11-08T18:55:32.482Z"
+  },
+  "c74ef1d81d19f4b7": {
+    "headline": "Updated the displayed author",
+    "summary": "The add-on’s author listing has changed. Players won’t notice a difference while playing.",
+    "impact": "behind-the-scenes",
+    "model": "gpt-6-luna",
+    "at": "2026-11-08T18:55:32.482Z"
+  },
+  "6d9bee6e7907671f": {
+    "headline": "Updated the displayed author",
+    "summary": "The add-on’s author listing has changed. Players won’t notice a difference while playing.",
+    "impact": "behind-the-scenes",
+    "model": "gpt-6-luna",
+    "at": "2026-11-08T18:55:32.482Z"
+  },
+  "2ebf0b3b3599a32d": {
+    "headline": "Updated the displayed author",
+    "summary": "The add-on’s author listing has changed. Players won’t notice a difference while playing.",
+    "impact": "behind-the-scenes",
+    "model": "gpt-6-luna",
+    "at": "2026-11-08T18:55:32.482Z"
+  },
+  "fcebbbce1108227e": {
+    "headline": "Updated the displayed author",
+    "summary": "The add-on’s author listing has changed. Players won’t notice a difference while playing.",
+    "impact": "behind-the-scenes",
+    "model": "gpt-6-luna",
+    "at": "2026-11-08T18:55:32.482Z"
+  },
+  "f7ffff9f6eb624f0": {
+    "headline": "Updated the displayed author",
+    "summary": "The add-on’s author listing has changed. Players won’t notice a difference while playing.",
+    "impact": "behind-the-scenes",
+    "model": "gpt-6-luna",
+    "at": "2026-11-08T18:55:32.482Z"
+  },
+  "cb22f3237f055934": {
+    "headline": "Updated the displayed author",
+    "summary": "The add-on’s author listing has changed. Players won’t notice a difference while playing.",
+    "impact": "behind-the-scenes",
+    "model": "gpt-6-luna",
+    "at": "2026-11-08T18:55:32.482Z"
+  },
+  "1f65add02960b1cf": {
+    "headline": "Updated the displayed author",
+    "summary": "The add-on’s author listing has changed. Players won’t notice a difference while playing.",
+    "impact": "behind-the-scenes",
+    "model": "gpt-6-luna",
+    "at": "2026-11-08T18:55:32.482Z"
+  },
+  "49c1fcd56c52abea": {
+    "headline": "Updated the displayed author",
+    "summary": "The add-on’s author listing has changed. Players won’t notice a difference while playing.",
+    "impact": "behind-the-scenes",
+    "model": "gpt-6-luna",
+    "at": "2026-11-08T18:55:32.482Z"
+  },
+  "f9180acc2da93885": {
+    "headline": "Updated the displayed author",
+    "summary": "The add-on’s author listing has changed. Players won’t notice a difference while playing.",
+    "impact": "behind-the-scenes",
+    "model": "gpt-6-luna",
+    "at": "2026-11-08T18:55:32.482Z"
+  },
+  "3e1488e6497aeba7": {
+    "headline": "Updated the displayed author",
+    "summary": "The add-on’s author listing has changed. Players won’t notice a difference while playing.",
+    "impact": "behind-the-scenes",
+    "model": "gpt-6-luna",
+    "at": "2026-11-08T18:55:32.482Z"
+  },
+  "7c5c8ca8c86671aa": {
+    "headline": "Updated the displayed author",
+    "summary": "The add-on’s author listing has changed. Players won’t notice a difference while playing.",
+    "impact": "behind-the-scenes",
+    "model": "gpt-6-luna",
+    "at": "2026-11-08T18:55:32.482Z"
+  },
+  "ad4bcd633d736b94": {
+    "headline": "A cleaner window for tracking players",
+    "summary": "Players can now manage ratings, tags, notes and history in one window, and browse groups with one-click ratings. The new design also adds searchable settings, four looks and a size control.",
+    "impact": "visible",
+    "model": "gpt-6-luna",
+    "at": "2026-11-11T07:53:27.887Z"
+  },
+  "a47ad8b856c92316": {
+    "headline": "Cleaner release notes",
+    "summary": "The add-on’s automatic CurseForge release notes now leave out sign-off lines. Players will notice this only when viewing a release; the change is otherwise behind the scenes.",
+    "impact": "visible",
+    "model": "gpt-6-luna",
+    "at": "2026-11-11T22:55:17.086Z"
+  },
+  "6b12a8c8853b3b64": {
+    "headline": "Cleaner release notes",
+    "summary": "The automatic CurseForge release notes across several add-ons now leave out sign-off lines. Players will notice this only when viewing a release; the change is otherwise behind the scenes.",
+    "impact": "visible",
+    "model": "gpt-6-luna",
+    "at": "2026-11-11T22:55:17.086Z"
+  },
+  "59603f57cc989f6c": {
+    "headline": "One group-wide congratulation",
+    "summary": "Players will now see one congratulation when several group members earn an achievement or level up at once, rather than a message for each person. There is also an extra safety check behind the scenes.",
+    "impact": "visible",
+    "model": "gpt-6-luna",
+    "at": "2026-11-13T01:58:23.806Z"
+  },
+  "4a1dc786a8eab5cb": {
+    "headline": "Chat messages no longer cause errors",
+    "summary": "Players on newer game versions will no longer see an error when some chat messages are hidden from the add-on. Achievement and level-up messages can now work for other members of your group; messages from you or people outside the group are ignored.",
+    "impact": "visible",
+    "model": "gpt-6-luna",
+    "at": "2026-11-13T01:58:23.806Z"
+  },
+  "1e161b02f9bf34a4": {
+    "headline": "Safer spell handling in combat",
+    "summary": "Players will no longer see an error when casting spells on certain targets in combat. The add-on now skips spell details the game hides from it.",
+    "impact": "visible",
+    "model": "gpt-6-luna",
+    "at": "2026-11-13T01:58:23.806Z"
+  }
+}
